@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_navigate">Navigate</string>
+    <string name="hello_foo_fragment">Hello Foo Fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="title_foofeature">Foo Feature</string>
+    <string name="hello_second_fragment">Hello Second Fragment</string>
+</resources>

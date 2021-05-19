@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@id/nav_graph_foo"
+    app:moduleName="foofeature"
+    app:startDestination="@id/fooScreen"
+    >
+
+    <fragment
+        android:id="@+id/fooScreen"
+        android:name="com.example.android.navigationadvancedsample.fooFeature.FooFragment"
+        android:label="FooScreen"
+        app:moduleName="foofeature"
+        >
+        <action
+            android:id="@+id/action_fooScreen_to_barScreen"
+            app:destination="@id/barScreen" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/barScreen"
+        android:name="com.example.android.navigationadvancedsample.fooFeature.BarFragment"
+        android:label="BarScreen"
+        app:moduleName="foofeature"
+        >
+    </fragment>
+
+</navigation>
