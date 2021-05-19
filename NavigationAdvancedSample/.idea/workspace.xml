@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1203770b-d816-450c-9322-b08ffd0539e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.google/packaging.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sampledata/rank.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/navigationadvancedsample/BottomNavigationTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/navigationadvancedsample/DeepLinkTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/formscreen/Register.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/formscreen/Registered.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/homescreen/About.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/homescreen/Title.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/listscreen/Leaderboard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationadvancedsample/listscreen/UserProfile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_1_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_2_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_3_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_4_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_5_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/avatar_6_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_press.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_press_dark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_mail_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_feedback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/image_category_entertainment_raster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/purple_frame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_rect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_leaderboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_registered.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_view_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/user_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/form.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/included_nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/androidTest/java/com/example/android/navigationadvancedsample/fooFeature/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/java/com/example/android/navigationadvancedsample/fooFeature/BarFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/java/com/example/android/navigationadvancedsample/fooFeature/FooActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/java/com/example/android/navigationadvancedsample/fooFeature/FooFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/res/layout/activity_foo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/res/layout/fragment_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/res/layout/fragment_foo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/res/navigation/nav_graph_foo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foofeature/src/test/java/com/example/android/navigationadvancedsample/fooFeature/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versions.gradle" beforeDir="false" />
+    </list>
+    <list id="ca267765-083e-4159-9254-a247efc05667" name="Dynamic feature navigation bug reproduction" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/terence.peh/.android/avd/Galaxy_Nexus_API_23.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NavigationAdvancedSample" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dlam/paging3-adapter" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sjivdnPZRgHaBRaCMRS3pRgQa2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foofeature/src/main/res/layout" />
+    <property name="settings.editor.selected.configurable" value="preferences.ktlint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/foofeature/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/foofeature/src/main/java/com/example/android/navigationadvancedsample/fooFeature" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/navigation" />
+      <recent name="$PROJECT_DIR$/dynamicfeature/src/main/res/navigation" />
+      <recent name="$PROJECT_DIR$/dynamicfeature/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1203770b-d816-450c-9322-b08ffd0539e2" name="Default Changelist" comment="" />
+      <changelist id="ca267765-083e-4159-9254-a247efc05667" name="Dynamic feature navigation bug reproduction" comment="" />
+      <created>1621392630460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621392630460</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Dynamic feature navigation bug reproduction">
+      <created>1621401684140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621401684140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dynamic feature navigation multiple back stack bug reproduction">
+      <created>1621403586820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621403586820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dynamic feature navigation bug reproduction" />
+    <MESSAGE value="Dynamic feature navigation multiple back stack bug reproduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic feature navigation multiple back stack bug reproduction" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="197" key="AndroidCreateResourceDirectoryDialog" timestamp="1621394042554">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="308" y="197" key="AndroidCreateResourceDirectoryDialog/-607.-1417.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1621394042554" />
+    <state x="239" y="-1110" key="AndroidCreateXmlResourceDialog" timestamp="1621400571916">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="239" y="-1110" key="AndroidCreateXmlResourceDialog/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621400571916" />
+    <state x="476" y="202" key="AndroidCreateXmlResourceDialog/-607.-1417.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1621394661488" />
+    <state x="55" y="-1201" key="CommitChangelistDialog2" timestamp="1621403586552">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="55" y="-1201" key="CommitChangelistDialog2/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621403586552" />
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom" timestamp="1621400481894">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621400481894" />
+    <state width="2518" height="392" key="GridCell.Tab.0.center" timestamp="1621400481894">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.center/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621400481894" />
+    <state width="2518" height="392" key="GridCell.Tab.0.left" timestamp="1621400481893">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.left/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621400481893" />
+    <state width="2518" height="392" key="GridCell.Tab.0.right" timestamp="1621400481894">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.right/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621400481894" />
+    <state x="404" y="-824" key="ScreenshotRecorder.Options.Dimensions" timestamp="1621398564353">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="404" y="-824" key="ScreenshotRecorder.Options.Dimensions/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621398564353" />
+    <state x="179" y="-1074" key="SettingsEditor" timestamp="1621403604635">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="179" y="-1074" key="SettingsEditor/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621403604635" />
+    <state x="270" y="-977" key="Vcs.Push.Dialog.v2" timestamp="1621403613459">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="270" y="-977" key="Vcs.Push.Dialog.v2/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621403613459" />
+    <state x="419" y="174" width="710" height="522" key="find.popup" timestamp="1621394433622">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="419" y="174" width="710" height="522" key="find.popup/-607.-1417.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1621394433622" />
+    <state x="77" y="-1161" width="1192" height="1162" key="search.everywhere.popup" timestamp="1621399305082">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="77" y="-1161" width="1192" height="1162" key="search.everywhere.popup/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621399305082" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/-607.-1417.2560.1417/0.23.1440.825@0.23.1440.825" timestamp="1621393864751" />
+    <state x="54" y="-960" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1621402407336">
+      <screen x="-607" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="54" y="-960" key="vcs.ApplyPatchDifferentiatedDialog/-607.-1417.2560.1417/0.23.1440.825@-607.-1417.2560.1417" timestamp="1621402407336" />
+  </component>
+</project>

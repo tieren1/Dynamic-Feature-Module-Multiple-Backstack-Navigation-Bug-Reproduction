@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.iml" filepath="$PROJECT_DIR$/.idea/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.iml" filepath="$PROJECT_DIR$/.idea/modules/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foofeature/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.foofeature.iml" filepath="$PROJECT_DIR$/.idea/modules/foofeature/Dynamic-Feature-Module-Multiple-Backstack-Navigation-Bug-Reproduction.foofeature.iml" />
     </modules>
   </component>
 </project>
