@@ -167,6 +167,8 @@ deps.mockito = mockito
 
 deps.mock_web_server = "com.squareup.okhttp3:mockwebserver:$versions.mockwebserver"
 
+deps.safe_args_plugin = "androidx.navigation:navigation-safe-args-gradle-plugin:$versions.navigation"
+
 def navigation = [:]
 navigation.runtime = "androidx.navigation:navigation-runtime:$versions.navigation"
 navigation.runtime_ktx = "androidx.navigation:navigation-runtime-ktx:$versions.navigation"
