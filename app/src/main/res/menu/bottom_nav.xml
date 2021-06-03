@@ -32,7 +32,7 @@
         android:contentDescription="@string/cd_form"
         android:title="@string/title_register" />
     <item
-        android:id="@+id/included_nav_graph_foo"
+        android:id="@id/nav_graph_foo"
         android:icon="@drawable/ic_baseline_mail_24"
         android:contentDescription="@string/cd_form"
         android:title="@string/title_foofeature" />

@@ -24,11 +24,11 @@
     <include app:graph="@navigation/list"/>
     <include app:graph="@navigation/form"/>
 
-<!--    <include-dynamic-->
-<!--        android:id="@+id/nav_graph_foo"-->
-<!--        app:moduleName="foofeature"-->
-<!--        app:graphResName="nav_graph_foo"-->
-<!--        />-->
-    <include app:graph="@navigation/included_nav_graph"/>
+    <include-dynamic
+        android:id="@+id/nav_graph_foo"
+        app:moduleName="foofeature"
+        app:graphResName="nav_graph_foo"
+        />
+<!--    <include app:graph="@navigation/included_nav_graph"/>-->
 
 </navigation>

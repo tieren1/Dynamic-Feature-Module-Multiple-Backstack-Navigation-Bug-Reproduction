@@ -17,6 +17,7 @@
 package com.example.android.navigationadvancedsample
 
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
@@ -25,6 +26,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.android.material.navigation.NavigationBarView
 
 /**
  * An activity that inflates a layout that has a [BottomNavigationView].
@@ -44,7 +46,7 @@ class MainActivity : AppCompatActivity() {
         navController = navHostFragment.navController
 
         // Setup the bottom navigation view with navController
-        val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottom_nav)
+        val bottomNavigationView = findViewById<NavigationBarView>(R.id.bottom_nav)
         bottomNavigationView.setupWithNavController(navController)
 
         // Setup the ActionBar with navController and 3 top level destinations
@@ -52,6 +54,11 @@ class MainActivity : AppCompatActivity() {
             setOf(R.id.titleScreen, R.id.leaderboard, R.id.register, R.id.nav_graph_foo)
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
+
+        bottomNavigationView.setOnItemSelectedListener { item ->
+            Log.d("MainActivity", "${item.itemId} - $item")
+            true
+        }
     }
 
     override fun onSupportNavigateUp(): Boolean {
