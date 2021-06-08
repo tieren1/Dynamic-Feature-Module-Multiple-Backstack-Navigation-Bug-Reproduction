@@ -22,6 +22,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
+import androidx.navigation.ui.NavigationUI.onNavDestinationSelected
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
@@ -57,6 +58,11 @@ class MainActivity : AppCompatActivity() {
 
         bottomNavigationView.setOnItemSelectedListener { item ->
             Log.d("MainActivity", "${item.itemId} - $item")
+
+            onNavDestinationSelected(
+                item,
+                navController
+            )
             true
         }
     }
